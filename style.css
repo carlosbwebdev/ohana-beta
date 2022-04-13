@@ -18,6 +18,8 @@ main{
     background-color: rgb(227, 191, 80,0.5);
     font-family: 'Roboto',
     sans-serif;
+
+    
     
 }
 
@@ -27,6 +29,8 @@ section{
     justify-content: center;
     align-items: center;
     gap: 1rem;
+    position: relative;
+    bottom: 2rem;
 }
 
 img{
